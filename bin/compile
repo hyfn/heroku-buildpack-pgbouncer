@@ -59,4 +59,4 @@ mkdir -p $BUILD_DIR/bin
 cp "$BUILDPACK_DIR/bin/start-pgbouncer" $BUILD_DIR/bin/
 chmod +x $BUILD_DIR/bin/start-pgbouncer
 
-echo "-----> pgbouncer/stunnel done"
+echo "-----> pgbouncer done"
